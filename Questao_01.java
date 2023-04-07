@@ -7,7 +7,7 @@ public class Questao_01 {
         int idade = 27;
         double altura = 1.75;
         char primeiraLetraNome = 'J';
-        String nomeCompleto = "João Silva";
+        String nomeCompleto = "José Gidel";
         
         System.out.println("Idade: " + idade);
         System.out.println("Altura: " + altura);
